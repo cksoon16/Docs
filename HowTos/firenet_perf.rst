@@ -1,11 +1,17 @@
 .. meta::
-  :description: Aviatrix Transit Firenet and AWS TGW Performance benchmark
+  :description: Aviatrix Transit Firenet and AWS TGW Firewall Network Performance benchmark
 
 ================================
-Aviatrix Transit Firenet and AWS TGW Firenet Performance
+Aviatrix Transit Firenet and AWS TGW Firewall Network Performance
 ================================
 
 This document provides performance results on Aviatrix Transit Firenet and AWS TGW Firenet related deployment scenarios. Refer to `Transit Firenet FAQs <https://docs.aviatrix.com/HowTos/transit_firenet_faq.html>`_ and `Firewall Network FAQs <https://docs.aviatrix.com/HowTos/firewall_network_faq.html>`_ for more information about these use cases.
+
+`Aviatrix Transit Firenet Performance <https://docs.aviatrix.com/HowTos/transit_firenet_faq.html#what-is-the-transit-firenet-performance>`_
+---------------------
+
+`AWS TGW Firewall Network Inspection (East-West, North-South) Performance <https://docs.aviatrix.com/HowTos/firewall_network_faq.html#what-is-the-maximum-performance-firenet-can-achieve>`_
+--------------------
 
 Aviatrix High Performance Encryption (HPE a.k.a. Insane mode) Transit Network with Egress Gateway
 -------------------------
@@ -41,11 +47,6 @@ Testing Environment:
 
 |tgw_firenet_gw_c5n9xl|
 
-`Aviatrix Transit Firenet Performance <https://docs.aviatrix.com/HowTos/firewall_network_faq.html#what-is-the-maximum-performance-firenet-can-achieve>`_
----------------------
-
-`AWS TGW Firewall Network Inspection (East-West, North-South) Performance <https://docs.aviatrix.com/HowTos/firewall_network_faq.html#what-is-the-maximum-performance-firenet-can-achieve>`_
---------------------
 
 .. |avx_insane_egress| image:: firenet_perf_media/avx_insane_egress.png
    :scale: 30%
